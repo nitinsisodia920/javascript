@@ -24,3 +24,5 @@ let stringConversion = String(someNumber)
 
 console.log(stringConversion)
 console.log(typeof stringConversion)
+
+// ********************** Operation **********************
